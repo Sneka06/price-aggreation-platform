@@ -1,4 +1,4 @@
-# PRICE TRACKER
+# PRICE AGGREATION PLATFORM
 [![Build Status](https://img.shields.io/pypi/pyversions/price-tracker)](https://pypi.org/project/price-tracker/)
 [![License](https://img.shields.io/github/license/Evasionn/price-tracker)](LICENSE)
 [![Version](https://img.shields.io/pypi/v/price-tracker)](https://pypi.org/project/price-tracker/)
