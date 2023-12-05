@@ -1,0 +1,23 @@
+# =============================================================================
+# DEPRECATION WARNING:
+#
+# The file `requirements.txt` does not influence the package dependencies and
+# will not be automatically created in the next version of PyScaffold (v4.x).
+#
+# Please have look at the docs for better alternatives
+# (`Dependency Management` section).
+# =============================================================================
+#
+# Add your pinned requirements so that they can be easily installed with:
+# pip install -r requirements.txt
+# Remember to also add them in setup.cfg but unpinned.
+# Example:
+# numpy==1.13.3
+# scipy==1.0
+#
+requests==2.24.0
+beautifulsoup4==4.9.3
+requests_random_user_agent==2020.10.19
+urllib3~=1.25.11
+setuptools~=50.3.2
+Flask~=1.1.2

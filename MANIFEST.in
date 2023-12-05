@@ -1,0 +1,3 @@
+include *.txt
+include LICENSE
+recursive-include price_tracker *.py
